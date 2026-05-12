@@ -20,7 +20,7 @@ Here is the updated, more readable README — copy everything between the lines:
 
 <br>
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📁 Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) &nbsp;·&nbsp; [🐛 Report Bug](#) &nbsp;·&nbsp; [⭐ Star this Repo](#)
+[🚀 Live Demo](https://movie-recommendation-system-sjaugkeubyxadojuyui5lj.streamlit.app/) &nbsp;·&nbsp; [📁 Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) &nbsp;·&nbsp; [🐛 Report Bug](#) &nbsp;·&nbsp; [⭐ Star this Repo](#)
 
 </div>
 
