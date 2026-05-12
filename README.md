@@ -332,5 +332,3 @@ Hi, I'm **Zeyad Sayed** — a beginner Machine Learning student who loves buildi
 </div>
 
 ---
-
-**Tell me "done" and I'll give you Step 6 — adding your screenshots 👇**
